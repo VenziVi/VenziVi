@@ -1,7 +1,8 @@
 
-<h3>My SoftUni Courses:</h3>
-
-:heavy_check_mark: <a href="https://softuni.bg/certificates/details/96296/73faf4fd">Programming Fundamentals</a>                        
+<h1 align ="center">My SoftUni Courses:</h1>
+<div>
+  
+:heavy_check_mark: <a href="https://softuni.bg/certificates/details/96296/73faf4fd">Programming Fundamentals</a>
   
 :heavy_check_mark: <a href="https://softuni.bg/certificates/details/98089/ec575c54">C# Advanced</a>
 
@@ -14,7 +15,9 @@
 :heavy_check_mark: <a href="https://softuni.bg/certificates/details/110248/36d9fe72">JavaScript Applications</a> 
 
 :heavy_check_mark: <a href="https://softuni.bg/certificates/details/114091/10b7fbd6">MS SQL</a>
-
+  
+</div>
+<br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenziVi&layout=compact)](https://github.com/VenziVi/github-readme-stats)
 
