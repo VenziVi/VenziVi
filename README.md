@@ -1,5 +1,5 @@
 
-<h1 align ="center">My SoftUni Courses:</h1>
+<h1 align ="center">Courses passed:</h1>
 <div>
   
 :heavy_check_mark: <a href="https://softuni.bg/certificates/details/96296/73faf4fd">Programming Fundamentals</a>
