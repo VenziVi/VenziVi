@@ -3,3 +3,5 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@VenziVi/abfc7fc2-0b60-4362-937c-5c3f28ae92fb.svg"></embed></figure>
+<img src="https://wakatime.com/share/@VenziVi/abfc7fc2-0b60-4362-937c-5c3f28ae92fb.svg" height=400>
