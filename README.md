@@ -4,6 +4,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ### Github Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VenziVi&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VenziVi&theme=white)](https://git.io/streak-stats)
 
 
