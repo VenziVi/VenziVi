@@ -6,9 +6,4 @@
 ### Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VenziVi&theme=dracula)](https://git.io/streak-stats)
 
----
-  
-<p>
- <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
-</p>
 
